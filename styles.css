@@ -1,0 +1,36 @@
+body
+{
+    background-image: url("background.png");
+}
+
+.bodyul
+{
+    list-style-type:none;
+    margin: auto;
+    width: 66%;
+    float: center;
+}
+
+.about
+{
+    background-color: darkslategray;
+}
+
+.about a
+{
+    text-decoration: none;
+    color: royalblue;
+    float: center;
+}
+
+.about a:hover
+{
+    color:orangered;
+}
+
+.about p
+{
+    background-color: maroon;
+    color: white;
+    font-size: 120%;
+}
